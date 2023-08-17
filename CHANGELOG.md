@@ -1,5 +1,11 @@
 # @neon-20/msg-validators
 
+## 0.0.6
+
+### Patch Changes
+
+- Still Fixing
+
 ## 0.0.5
 
 ### Patch Changes
